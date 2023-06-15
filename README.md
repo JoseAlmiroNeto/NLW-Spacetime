@@ -11,25 +11,16 @@
 
 Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+<h1>Para rodar o projeto de os seguintes comandos</h2>
 
-<!--START_SECTION:footer-->
+> No Front-End e no Back-End:
 
-<br />
-<br />
+```
+npm install
+```
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
+```
+npm run dev
+```
